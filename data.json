@@ -1,0 +1,11 @@
+{
+    "basics":
+    {
+        "name":"showww",
+        "rno":"m2",
+        "status":"single",
+        "education":[ {"degree":"ssc","percentage":"9.8"},{"degree":"inter","percentage":"98.4"} ]
+           
+            
+    }
+}
